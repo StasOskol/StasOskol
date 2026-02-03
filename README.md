@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Stasbeep (Stanislav Oskol)
+- 👋 Hi, I'm @StasOskol (Stanislav Oskol)
 - 👀 Interested in Frontend
 - 💞 Looking forward to cooperate with you
 - 📫 You can contact me by mail: stanislav.osk@mail.ru
